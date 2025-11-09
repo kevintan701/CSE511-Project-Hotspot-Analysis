@@ -475,11 +475,13 @@ spark-submit --executor-memory 4g --driver-memory 2g ...
 ### Documentation
 - [Apache Spark Documentation](https://spark.apache.org/docs/2.2.0/)
 - [Scala Documentation](https://docs.scala-lang.org/)
-- [Getis-Ord G* Statistic](https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/h-how-hot-spot-analysis-getis-ord-gi-spat-stati.htm)
+- [Getis-Ord G* Statistic - Wikipedia](https://en.wikipedia.org/wiki/Getis%E2%80%93Ord_statistics) - Comprehensive explanation of the Getis-Ord statistics
+- [Getis-Ord Local G* Test - Biomedware](https://www.biomedware.com/files/documentation/OldCSHelp/Getis-Ord_Local_G_Test/Getis-Ord_LocalG__Statistic.htm) - Detailed technical documentation
 
 ### Data Sources
-- [NYC Taxi Trip Data (S3)](https://datasyslab.s3.amazonaws.com/index.html?prefix=nyctaxitrips/)
-- [ACM SIGSPATIAL GISCUP 2016](http://sigspatial2016.sigspatial.org/giscup2016/problem)
+- [NYC TLC Trip Record Data - AWS Open Data Registry](https://registry.opendata.aws/nyc-tlc-trip-records-pds/) - Official NYC taxi trip data on AWS S3
+- [NYC TLC Trip Record Data - Official TLC Website](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) - Official documentation and data access
+- [ACM SIGSPATIAL GISCUP 2016](http://sigspatial2016.sigspatial.org/giscup2016/problem) - Original challenge problem definition
 
 ### Related Projects
 - This project is based on ACM SIGSPATIAL GISCUP 2016 challenge
