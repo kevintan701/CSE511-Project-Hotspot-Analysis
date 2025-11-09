@@ -5,16 +5,21 @@
 **Course**: CSE 511 - Data Processing at Scale
 
 ## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Introduction](#introduction)
-- [Project Structure](#project-structure)
-- [Implementation Details](#implementation-details)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Algorithm Explanations](#algorithm-explanations)
-- [Output Format](#output-format)
-- [Testing](#testing)
-- [Troubleshooting](#troubleshooting)
+- [Project Overview](#-project-overview)
+- [Introduction](#-introduction)
+- [Project Structure](#-project-structure)
+- [Implementation Details](#-implementation-details)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Algorithm Explanations](#-algorithm-explanations)
+- [Output Format](#-output-format)
+- [Testing](#-testing)
+- [Troubleshooting](#-troubleshooting)
+- [Additional Resources](#-additional-resources)
+- [Version History](#-version-history)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Acknowledgments](#-acknowledgments)
 
 ---
 
