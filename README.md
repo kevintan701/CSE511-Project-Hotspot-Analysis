@@ -23,6 +23,7 @@
 
 ---
 
+<a name="project-overview"></a>
 ## 🎯 Project Overview
 
 This project implements **spatial hot spot analysis** on large-scale geospatial datasets using Apache Spark and Scala. The project consists of two main analysis tasks:
@@ -38,6 +39,7 @@ This project implements **spatial hot spot analysis** on large-scale geospatial 
 
 ---
 
+<a name="introduction"></a>
 ## 📖 Introduction
 
 ### What is Hot Spot Analysis?
@@ -56,6 +58,7 @@ Hot spot analysis is a spatial analysis technique used to identify areas with st
 
 ---
 
+<a name="project-structure"></a>
 ## 📁 Project Structure
 
 ```
@@ -90,6 +93,7 @@ CSE511-Project-Hotspot-Analysis/
 
 ---
 
+<a name="implementation-details"></a>
 ## 🔧 Implementation Details
 
 ### Hot Zone Analysis
@@ -154,6 +158,7 @@ Where:
 
 ---
 
+<a name="getting-started"></a>
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -207,6 +212,7 @@ For debugging in IntelliJ IDEA or other IDEs:
 
 ---
 
+<a name="usage"></a>
 ## 💻 Usage
 
 ### Command Format
@@ -283,6 +289,7 @@ spark-submit \
 
 ---
 
+<a name="output-format"></a>
 ## 📊 Output Format
 
 ### Hot Zone Analysis Output
@@ -315,6 +322,7 @@ spark-submit \
 
 ---
 
+<a name="testing"></a>
 ## 🧪 Testing
 
 ### Test Cases
@@ -361,6 +369,7 @@ Example test cases are provided in the `testcase/` directory:
 
 ---
 
+<a name="algorithm-explanations"></a>
 ## 🔍 Algorithm Explanations
 
 ### Spatial Join (Hot Zone)
@@ -403,6 +412,7 @@ The G* statistic measures **local spatial autocorrelation**:
 
 ---
 
+<a name="troubleshooting"></a>
 ## 🐛 Troubleshooting
 
 ### Common Issues
@@ -459,6 +469,7 @@ spark-submit --executor-memory 4g --driver-memory 2g ...
 
 ---
 
+<a name="additional-resources"></a>
 ## 📚 Additional Resources
 
 ### Documentation
@@ -476,6 +487,7 @@ spark-submit --executor-memory 4g --driver-memory 2g ...
 
 ---
 
+<a name="version-history"></a>
 ## 📝 Version History
 
 - **v1.1** (Nov 16): Fixed bug in `Entrance.scala`
@@ -484,6 +496,7 @@ spark-submit --executor-memory 4g --driver-memory 2g ...
 
 ---
 
+<a name="contributing"></a>
 ## 👥 Contributing
 
 This is a course project. For questions or issues:
@@ -493,12 +506,14 @@ This is a course project. For questions or issues:
 
 ---
 
+<a name="license"></a>
 ## 📄 License
 
 This project is part of an academic course. Please refer to your course guidelines for usage and distribution policies.
 
 ---
 
+<a name="acknowledgments"></a>
 ## 🙏 Acknowledgments
 
 - **Author**: Yuntao (Kevin) Tan
